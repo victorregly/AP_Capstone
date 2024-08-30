@@ -24,6 +24,7 @@ This project is a personalized playlist generation system that dynamically adapt
   - `user_management.py`: Handles user authentication and registration.
   - `playlist_management.py`: Manages playlist operations and song retrieval.
 - `data/`: Directory containing the dataset and user-related CSV files.
+- `performance_test.py`: Script for conducting performance tests on the recommendation system, measuring response time and memory usage across different playlist sizes.
 
 ## Installation
 
@@ -63,7 +64,7 @@ Performance tests were conducted to evaluate the system's efficiency in terms of
 - **Response Time**: The system remains responsive even with larger playlists, with response times ranging from 0.124 to 0.524 seconds depending on playlist size.
 - **Memory Usage**: Memory usage remained stable across tests, indicating good scalability.
 
-For more detailed results, please refer to the `Results` section in the report.
+To run your own performance tests, use the `performance_test.py` script included in the project.
 
 ## Helper Tools
 
