@@ -30,8 +30,8 @@ This project is a personalized playlist generation system that dynamically adapt
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/playlist-generation-system.git
-    cd playlist-generation-system
+    git clone https://github.com/victorregly/AP_Capstone.git
+    cd AP_Capstone
     ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -75,7 +75,7 @@ This project leveraged several external tools to enhance productivity and mainta
 
 ## Bibliography
 
-- Schedl, M., Zamani, H., Chen, C. W., et al. (2018). Current challenges and visions in music recommender systems research. _International Journal of Multimedia Information Retrieval_, 7(2), 95–116. [https://doi.org/10.1007/s13735-018-0154-2](https://doi.org/10.1007/s13735-018-0154-2)
+- Schedl, M., Zamani, H., Chen, C. W., et al. (2018). Current challenges and visions in music recommender systems research. _International Journal of Multimedia Information Retrieval_, 7(2), 95–116.
 
 ## Future Work
 
@@ -83,9 +83,6 @@ This project leveraged several external tools to enhance productivity and mainta
 - **Database Integration**: Migrating from CSV files to a relational database for better scalability and data management.
 - **Expanded Media Types**: Extending the recommendation system to include other types of media, such as podcasts or videos.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
